@@ -5,5 +5,4 @@
 <x-twill::medias
     name="highlight"
     label="Highlight"
-
 />
